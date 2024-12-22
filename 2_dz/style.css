@@ -1,0 +1,50 @@
+a {
+    text-decoration: none;
+}
+
+.links {
+    color: cornflowerblue;
+    font-style: 16px;
+    line-height: 20px;
+}
+
+.main-title {
+    color: #222222;
+    font-style: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-style: 18px;
+    line-height: 30px;
+    color: #7d7987;
+}
+
+.title-h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-style: 36px;
+    line-height: 80px;
+}
+
+.input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-style: 14px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.button {
+    padding: 10px 20px;
+    font-style: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
